@@ -1,0 +1,6 @@
+---------------------------------------------------------------------------------
+Config Repo
+---------------------------------------------------------------------------------
+- contains properties for each application
+- spring.application.name property must match filename
+- files must be COMMITED to be detected
